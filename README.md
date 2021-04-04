@@ -33,7 +33,7 @@ Note: you can see your serial in input emulator in devices.
 
 - After this when you turn on your vive tracker and steam vr you can see than you can move the screen witn the tracker. it's important to have the tracker at exact same position as it is in my picture, it won't work if it's anywhere else on your head. Don't be panic first you gonna have gray screen but after few seconds you gonna see the screen and controllers.
 
-- i create a remix of this HMD mount: https://www.thingiverse.com/thing:4780501, not share because is no perfect hoping someone can do a more professional version.
+- i create a remix of this HMD mount: https://www.thingiverse.com/thing:4780501,  is not perfect hoping someone can do a more professional version.
 
 - Then you have to set up steam room calibrator and use advanced settings to fix floor if you need after installation.
 - Because the tracker it's around 10 cm far from your HMD you can use input emulator to fix that adding -10 to fix your controllers.
