@@ -1,4 +1,4 @@
-# HP-Reverb-G2-index-Controller-HTC-vive-tracker-Working-native-Open-VR.
+# HP-Reverb-G2-index-Controller-HTC-vive-tracker-Working-native-Open-VR
 I would like to share almost the perfect tracking without space calibration.
 
 What you need:
