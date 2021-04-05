@@ -21,10 +21,8 @@ Steps:
 - add these lines
 
 }, 
-
 "steamvr" : {     
    "activateMultipleDrivers" : true 
-
 }, 
 "TrackingOverrides" : {    
    "/devices/htc/vive_trackerLHR-YOURSERIAL" : "/user/head" 
