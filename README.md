@@ -21,17 +21,20 @@ Steps:
 - add these lines
 
 
-}, 
-"steamvr" : {     
-   "activateMultipleDrivers" : true 
+                            }, 
+                             
+                              "steamvr" : {     
+                              "activateMultipleDrivers" : true 
 
-}, 
-"TrackingOverrides" : {    
-   "/devices/htc/vive_trackerLHR-YOURSERIAL" : "/user/head" 
-}, 
-"trackers" : {
-   "/devices/htc/vive_trackerLHR-YOURSERIAL" : "TrackerRole_None"
-}
+                            }, 
+                              "TrackingOverrides" : {    
+                              "/devices/htc/vive_trackerLHR-YOURSERIAL" : "/user/head" 
+                            
+                            }, 
+                              "trackers" : {
+                              "/devices/htc/vive_trackerLHR-YOURSERIAL" : "TrackerRole_None"
+
+                            }
 
  
  Note: you can see your serial in input emulator in devices.
