@@ -11,7 +11,7 @@ What you need:
 
 Software:
 - Open VR advanced settings: https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings
-- Input Emultaor with Patch: https://github.com/matzman666/OpenVR-InputEmulator/releases and https://github.com/matzman666/OpenVR-InputEmulator/issues/207 works on windows 10 last version.
+- Input Emultaor with Patch: https://github.com/matzman666/OpenVR-InputEmulator/releases and https://github.com/matzman666/OpenVR-InputEmulator/issues/207 works on windows 10 last version.You can see how https://m.youtube.com/watch?v=xr9zXrS1sFg
 - Steam VR beta .
   
 Steps:
@@ -20,14 +20,18 @@ Steps:
 - Open steamvr.vrsettings (typically in windows C:\Program Files (x86)\Steam\config)
 - add these lines
 
-            "steamvr" : {     "activateMultipleDrivers" : true 
-            }, 
-            "TrackingOverrides" : {    
-               "/devices/htc/vive_trackerLHR-YOURSERIAL" : "/user/head" 
-            }, 
-            "trackers" : {
-               "/devices/htc/vive_trackerLHR-YOURSERIAL" : "TrackerRole_None"
-            }
+}, 
+
+"steamvr" : {     
+   "activateMultipleDrivers" : true 
+
+}, 
+"TrackingOverrides" : {    
+   "/devices/htc/vive_trackerLHR-YOURSERIAL" : "/user/head" 
+}, 
+"trackers" : {
+   "/devices/htc/vive_trackerLHR-YOURSERIAL" : "TrackerRole_None"
+}
 
 Note: you can see your serial in input emulator in devices.
 
