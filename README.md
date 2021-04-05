@@ -7,7 +7,7 @@ I would like to share almost the perfect tracking without space calibration.
 What you need:
  - Index / htc Controller, lighthouses
  - HTC vive tracker 1.0. 2.0 3.0 (Maybe in future tundra tracker)
- - USB extension cable or Micro usb for tracker 1.0 and 2.0 or USB C for tracker 3.0 Cable 5mt/16 ft (optional you can use dongle).
+ - USB extension no active cable or Micro usb for tracker 1.0 and 2.0 or USB C for tracker 3.0 Cable 5mt/16 ft (optional you can use dongle).
 
 Software:
 - Open VR advanced settings: https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings
