@@ -20,16 +20,7 @@ Steps:
 - Open steamvr.vrsettings (typically in windows C:\Program Files (x86)\Steam\config)
 - add these lines
  
- 
- "TrackingOverrides" : {    
-     "/devices/htc/vive_trackerLHR-YOURSERIA" : "/user/head" 
-  },
-  
-"trackers" : {
-   "/devices/htc/vive_trackerLHR-YOURSERIAL" : "TrackerRole_None"
-} 
-   
-Note: you can see your serial in input emulator in devices.
+ Note: you can see your serial in input emulator in devices.
 
 - After this when you turn on your vive tracker and steam vr you can see than you can move the screen witn the tracker. it's important to have the tracker at exact same position as it is in my picture, it won't work if it's anywhere else on your head. Don't be panic first you gonna have gray screen but after few seconds you gonna see the screen and controllers.
 
