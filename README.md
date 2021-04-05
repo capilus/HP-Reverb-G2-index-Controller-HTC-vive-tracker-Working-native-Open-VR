@@ -19,6 +19,20 @@ Steps:
 - Pair your vive tracker and your controller (needs dongles)
 - Open steamvr.vrsettings (typically in windows C:\Program Files (x86)\Steam\config)
 - add these lines
+
+
+}, 
+"steamvr" : {     
+   "activateMultipleDrivers" : true 
+
+}, 
+"TrackingOverrides" : {    
+   "/devices/htc/vive_trackerLHR-YOURSERIAL" : "/user/head" 
+}, 
+"trackers" : {
+   "/devices/htc/vive_trackerLHR-YOURSERIAL" : "TrackerRole_None"
+}
+
  
  Note: you can see your serial in input emulator in devices.
 
