@@ -44,6 +44,8 @@ Steps:
 - i create a remix of this HMD mount: https://www.thingiverse.com/thing:4780501,  is not perfect hoping someone can do a more professional version.
 
 - Then you have to set up steam room calibrator and use advanced settings to fix floor if you need after installation.
+- Save you first room calibration in advanced settings as a new chaperone profile select all boxes and save.
+- Then in settings also in advanced settings activate Force Use SteamVR Chaperone (experimental) and auto start Restart and the you will have you chaperone setting also you can charge you profile that you saved.
 - Because the tracker it's around 10 cm far from your HMD you can use input emulator to fix that adding -10 to fix your controllers.
 - You can use the vive tracker with the dongle but you can have some lag i recommend use a direct connection with the usb cable.
 - Hope you like and add- improvement. i'm not a expert programer only a normal user who love VR and want the best imaging with the best tracking.
